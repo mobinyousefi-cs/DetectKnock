@@ -1,0 +1,7 @@
+Arduino Board
+
+Piezo electric disc
+
+1 Megohm resistor
+
+solid surface
